@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Compare Packages</name>
+   <tag></tag>
+   <elementGuidId>45733467-a24c-41e5-a63e-bea930e6f5e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li/div/div/div/div/ul/li/div/ul/div/a/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>fc31e994-1086-48f0-9502-47783c61a4c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>f17408d1-d542-4059-a491-4ddc74caeb5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Compare Packages</value>
+      <webElementGuid>9d470009-1f2d-48f7-a63c-ae7e6546ad12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0 web-menu&quot;]/li[@class=&quot;nav-item&quot;]/div[@class=&quot;secondary&quot;]/div[@class=&quot;col-md-12 col-lg-12&quot;]/div[@class=&quot;sub-menu&quot;]/div[@class=&quot;secondary-menu&quot;]/ul[1]/li[@class=&quot;sub-menu-title menu-title-row pt-2 pb-2&quot;]/div[@class=&quot;menu-title-row-view-platform&quot;]/ul[@class=&quot;extra-menu-section&quot;]/div[@class=&quot;compare-menu&quot;]/a[1]/h5[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>01d485fe-a959-4ff8-9c93-913bb71780f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li/div/div/div/div/ul/li/div/ul/div/a/h5</value>
+      <webElementGuid>fa65d1ed-32a9-43bd-af35-216bff004c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADVANCED'])[1]/following::h5[1]</value>
+      <webElementGuid>da7935a5-bcba-449b-ac52-f8cb67d6ee1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STARTER (Open-Source)'])[1]/following::h5[1]</value>
+      <webElementGuid>ab9bbeaf-de27-475b-982b-e64c09eab8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruitment (ATS)'])[1]/preceding::h5[1]</value>
+      <webElementGuid>b403bffb-aa84-4fa3-ad84-22713e504c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Compare Packages']/parent::*</value>
+      <webElementGuid>bf857000-7fab-41d1-b914-9e2b64299ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>f1196e84-5d78-4f18-b776-6bfe5e244313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Compare Packages' or . = 'Compare Packages')]</value>
+      <webElementGuid>0f2afeba-27ab-42ee-87ab-11c9b61bf80f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

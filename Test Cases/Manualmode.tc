@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manualmode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0094f708-a4db-4458-bf33-b6db3bbc06e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78e15ba0-b53b-4474-a30a-2ca6b0d56662</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>78e15ba0-b53b-4474-a30a-2ca6b0d56662</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

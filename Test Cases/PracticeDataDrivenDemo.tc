@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PracticeDataDrivenDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9df8d701-0eca-4836-96f5-f48c3c21ccee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>595a91b4-d58e-45ec-9e5c-93f81b61d0b4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>52ac1807-3356-4cf9-8403-40ec3c03a9bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>595a91b4-d58e-45ec-9e5c-93f81b61d0b4</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52ac1807-3356-4cf9-8403-40ec3c03a9bf</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

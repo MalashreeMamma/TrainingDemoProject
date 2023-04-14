@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "99E1720ECC7B5A8541BC731819A01AE2",
+  "keywordClasses": [
+    {
+      "name": "MyKeword",
+      "keywordMethods": [
+        {
+          "name": "Hello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

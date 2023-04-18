@@ -1,0 +1,165 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "For the login page",
+        "description": "",
+        "id": "for-tetsing-purpose;for-the-login-page;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5613085301,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on login page",
+            "match": {
+              "location": "Loginpractice1.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2697305600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Admin and admin123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 0
+                },
+                {
+                  "val": "admin123",
+                  "offset": 10
+                }
+              ],
+              "location": "Loginpractice1.username_and_password(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 398117500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on login button",
+            "match": {
+              "location": "Loginpractice1.click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 895473500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Login page should be opened",
+            "match": {
+              "location": "Loginpractice1.login_page_should_be_opened()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke"
+          },
+          {
+            "name": "@Valid"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "For the login page",
+        "description": "",
+        "id": "for-tetsing-purpose;for-the-login-page;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4358066699,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on login page",
+            "match": {
+              "location": "Loginpractice1.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2813551600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Admin123 and Abc123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin123",
+                  "offset": 0
+                },
+                {
+                  "val": "Abc123",
+                  "offset": 13
+                }
+              ],
+              "location": "Loginpractice1.username_and_password(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 433054300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on login button",
+            "match": {
+              "location": "Loginpractice1.click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 734551500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Login page should be opened",
+            "match": {
+              "location": "Loginpractice1.login_page_should_be_opened()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke"
+          },
+          {
+            "name": "@Invalid"
+          }
+        ]
+      }
+    ],
+    "name": "For tetsing purpose",
+    "description": "",
+    "id": "for-tetsing-purpose",
+    "keyword": "Feature",
+    "uri": "Include/features/Loginpractice.feature",
+    "tags": []
+  }
+]

@@ -16,4 +16,16 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import Cucumberrunner as Cucumberrunner
+import Cucumberrunner$CucumberRunner as CucumberRunner
+
+//not_run: CucumberKW.runFeatureFile('Include/features/login.feature')
+//not_run: CucumberKW.runFeatureFileWithTags('Include/features/login.feature', '@valid', '@Smoke')
+not_run: CucumberKW.runFeatureFile('Include/features/Loginpractice.feature')
+
+not_run: CucumberKW.runFeatureFileWithTags('Include/features/Loginpractice.feature', '@Smoke', '@Valid')
+
+not_run: CucumberKW.runWithCucumberRunner(CucumberRunner.class)
+
+CucumberKW.runWithCucumberRunner(CucumberRunner.class)
 

@@ -31,3 +31,5 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
 WebUI.acceptAlert()
 
+WebUI.acceptAlert()
+
